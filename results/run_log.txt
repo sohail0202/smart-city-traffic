@@ -1,0 +1,8 @@
+Network: 120 intersections, 216 roads, 1 component(s)
+Route 0->119: fastest 23.2 min over 17 segments; shortest 14.37 km over 17 segments
+Alternative avoiding the busiest road: 23.4 min (+0.3 min)
+Incident: road 32-45 closed -> new fastest route 23.4 min (+0.2 min)
+MST (distance): Kruskal 86.71 km, Prim 86.71 km, 119 roads kept of 216 (48% of total road length)
+Critical intersections (articulation points): 1; bridge roads: 1
+Roads with congestion >= 0.7: 9
+Top 5 busiest intersections: Station 6-5 (69 trips), Stadium 7-4 (66 trips), Lakeside 7-5 (65 trips), Harbour 7-3 (62 trips), Central 6-6 (57 trips)
